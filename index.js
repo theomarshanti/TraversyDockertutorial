@@ -5,6 +5,7 @@ const bodyParser = require('body-parser');
 const app = express();
 
 app.set('view engine', 'ejs');
+// embedded JS is our template engine 
 
 app.use(bodyParser.urlencoded({ extended: false }));
 

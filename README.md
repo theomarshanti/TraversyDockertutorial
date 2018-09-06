@@ -1,3 +1,6 @@
+Our dependencies are: to parse whatever comes in from our form; EJS embedded JS; express is framework for routes; Mongoose to talk to MONGO
+
+
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
